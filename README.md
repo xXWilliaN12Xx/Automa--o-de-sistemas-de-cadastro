@@ -54,4 +54,23 @@ with open('produtos.txt', 'r') as arquivo:
 
         pyautogui.click(586,742, duration=1)  # Botão 'Registrar'
         sleep(1)
+```
+## 📥 Download do sistema
 
+Você pode baixar o projeto pronto no formato `.zip` pelo link abaixo:
+
+🔗 [Clique aqui para baixar](https://drive.google.com/file/d/1dOAp5PgN7rg_KzSXVJQFL85BW6ltPqKi/view)
+
+### 🧾 Instruções para uso
+
+1. Acesse o link acima e clique em **"Fazer download"**.
+2. Extraia o conteúdo do arquivo `.zip` em uma pasta de sua preferência.
+3. Abra a pasta extraída.
+4. **Clique duas vezes no arquivo `app`** para iniciar o sistema de automação.
+
+> **Observação:** Certifique-se de manter a janela do sistema de cadastro visível na tela, pois a automação depende das posições exatas dos cliques.
+
+#
+
+### Referências
+🔗 [Clique aqui para entrar](https://www.youtube.com/watch?v=pNBjC32nisg)
